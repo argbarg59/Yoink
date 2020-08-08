@@ -1,0 +1,9 @@
+game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
+	Text = "Welcome to Yoink Executor",
+	Color = Color3.new(255, 255, 255)
+})
+
+game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage",{
+	Text = "Powered by Immortal Donkey",
+	Color = Color3.new(255, 255, 255)
+})
